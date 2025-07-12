@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|c:\\users\\wallyson\\desktop\\bleach reborn 2024\\database\\autoupdate_bleach\\autoupdate_bleach\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|solutionrelative:autoupdate_bleach\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|c:\\users\\wallyson\\desktop\\bleach reborn 2024\\database\\autoupdate_bleach\\autoupdate_bleach\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|solutionrelative:autoupdate_bleach\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|c:\\users\\wallyson\\desktop\\bleach reborn 2024\\database\\autoupdate_bleach\\autoupdate_bleach\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|solutionrelative:autoupdate_bleach\\version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|c:\\users\\wallyson\\desktop\\bleach reborn 2024\\database\\autoupdate_bleach\\autoupdate_bleach\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDD52564-F40E-4CF8-96E7-4769B5B7C754}|AutoUpdate_Bleach\\AutoUpdate_Bleach.csproj|solutionrelative:autoupdate_bleach\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoUpdate_Bleach\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoUpdate_Bleach\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:39:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoUpdate_Bleach\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml",
+              "RelativeToolTip": "AutoUpdate_Bleach\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:40:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Version.cs",
+              "DocumentMoniker": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\Version.cs",
+              "RelativeDocumentMoniker": "AutoUpdate_Bleach\\Version.cs",
+              "ToolTip": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\Version.cs",
+              "RelativeToolTip": "AutoUpdate_Bleach\\Version.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:40:56.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoUpdate_Bleach\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Wallyson\\Desktop\\Bleach Reborn 2024\\Database\\AutoUpdate_Bleach\\AutoUpdate_Bleach\\MainWindow.xaml",
+              "RelativeToolTip": "AutoUpdate_Bleach\\MainWindow.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T03:42:45.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

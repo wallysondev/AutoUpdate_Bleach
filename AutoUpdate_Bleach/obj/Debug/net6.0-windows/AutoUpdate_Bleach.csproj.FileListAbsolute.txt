@@ -1,0 +1,48 @@
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.csproj.AssemblyReference.cache
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach_MarkupCompile.cache
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach_MarkupCompile.lref
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.exe
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.deps.json
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.runtimeconfig.json
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.pdb
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\App.baml
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.g.resources
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.AssemblyInfoInputs.cache
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.AssemblyInfo.cs
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.csproj.CoreCompileInputs.cache
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\refint\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.pdb
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.genruntimeconfig.cache
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\ref\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Wallyson\source\repos\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.csproj.CopyComplete
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.exe
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.deps.json
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.runtimeconfig.json
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\AutoUpdate_Bleach.pdb
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.csproj.AssemblyReference.cache
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach_MarkupCompile.cache
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach_MarkupCompile.lref
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\App.baml
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.g.resources
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.AssemblyInfoInputs.cache
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.AssemblyInfo.cs
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.csproj.CoreCompileInputs.cache
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpda.CF3738C9.Up2Date
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\refint\AutoUpdate_Bleach.dll
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.pdb
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\AutoUpdate_Bleach.genruntimeconfig.cache
+C:\Users\Wallyson\Desktop\Bleach Reborn 2024\Database\AutoUpdate_Bleach\AutoUpdate_Bleach\obj\Debug\net6.0-windows\ref\AutoUpdate_Bleach.dll
